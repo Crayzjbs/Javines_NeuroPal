@@ -1,4 +1,4 @@
-          ![436405674_1013666203671997_3074521031045333974_n](https://github.com/Crayzjbs/Javines_NeuroPal/assets/97206960/2f81efe3-6c49-47a9-b5ec-46f44fbd7cf1)
+![436405674_1013666203671997_3074521031045333974_n](https://github.com/Crayzjbs/Javines_NeuroPal/assets/97206960/2f81efe3-6c49-47a9-b5ec-46f44fbd7cf1)
 
 
 NeuroPal is a comprehensive mental health application designed by Team Void to provide users with a range of tools and resources to manage their mental well-being. The app addresses the increasing demands of modern life by offering features such as mood tracking, journaling, mindfulness exercises, and community support, all within a single, unified platform.
